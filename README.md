@@ -12,8 +12,8 @@
     	<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rzkytmgr/Quran-API">
 	</a>
     <br>
-    <a href="https://quran-endpoint.vercel.app/">
-    <img alt="Website" src="https://img.shields.io/website?label=vercel&down_message=offline&up_message=online&url=https%3A%2F%2Fquran-endpoint.vercel.app%2F">
+    <a href="https://quran-plum-seven.vercel.app/">
+    <img alt="Website" src="https://img.shields.io/website?label=vercel&down_message=offline&up_message=online&url=https%3A%2F%2Fquran-plum-seven.vercel.app%2F">
     </a>
     <a href="https://quran-endpoint.herokuapp.com/">
     <img alt="Website" src="https://img.shields.io/website?label=heroku&down_message=offline&up_message=online&url=https%3A%2F%2Fquran-endpoint.herokuapp.com%2F">
@@ -119,7 +119,7 @@ There are several different ways to do the installation, you can use whichever y
 
 ---
 
-**Base** : https://quran-endpoint.vercel.app/
+**Base** : https://quran-plum-seven.vercel.app/
 
 **Alternative** : https://quran-endpoint.herokuapp.com/
 
