@@ -1,7 +1,7 @@
 {
     "version": 2,
     "env": {
-        "BASE_URI": "https://quran-endpoint.vercel.app"
+        "BASE_URI": "https://quran-plum-seven.vercel.app/"
     },
     "builds": [
         {
